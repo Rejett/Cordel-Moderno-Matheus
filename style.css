@@ -20,6 +20,7 @@ header{
     padding-top: 6%;
     margin-left: -2.0%;
     margin-top: -3%;
+    box-shadow: 5px 5px 3px 3px rgba(0, 0, 0, 0.459);
 }
 #imagem1{
     height: 50vh;
@@ -29,6 +30,7 @@ header{
     background-repeat: no-repeat;
     padding-top: -50%;
     font-size: 2em;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.356);
 }
 #imagem2{
     height: 50vh;
@@ -36,6 +38,7 @@ header{
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.356);
 }
 .paragrafos{
     font-size: 2em;
@@ -49,7 +52,7 @@ header{
 }
 #img1{
     margin-left: 2%;
-    background-color: rgba(0, 0, 0, 0.527);
+    background-color: rgba(56, 55, 55, 0.308);
     height: 400px;
     position: absolute;
     left: -30vh;
@@ -67,7 +70,7 @@ header{
 #img2{
     width: 60vh;
     margin-left: -2%;
-    background-color: rgba(0, 0, 0, 0.527);
+    background-color: rgba(56, 55, 55, 0.308);
     height: 400px;
     position: absolute;
     left: -20vh;
