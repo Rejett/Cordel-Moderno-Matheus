@@ -18,18 +18,17 @@ html, body{
 }
 a{
     color: white;
-    text-decoration: none;
-    font-size: 2vh;
+    font-size: 1.5em;
 }
 header{
     background-color: black;
     color: white;
     text-align: center;
-    height: 150px;
+    min-height: 150px;
     padding-top: 3%;
     margin-left: -2.0%;
     margin-top: -3%;
-    box-shadow: 5px 5px 3px 3px rgba(0, 0, 0, 0.459);
+    box-shadow: 5px 5px 5px 5px black;
 }
 
 section{
@@ -46,7 +45,6 @@ section.normal{
 }
 section#imagem1{
     background: black url(imagens/background001.jpg) center center no-repeat fixed;
-
     color: white;
 }
 section#imagem1 > p {
@@ -62,7 +60,8 @@ section#imagem2{
 section#imagem2 > p {
     padding: 5px;
     display: inline-block;
-    background-color: rgba(192, 192, 192, 0.623);
+    background-color: rgba(102, 102, 102, 0.822);
+    color: rgb(255, 255, 255);
 
 }
 footer{
